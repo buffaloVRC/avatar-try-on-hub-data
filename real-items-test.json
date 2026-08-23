@@ -15,7 +15,9 @@
       "avatar": "Manuka / Kikyo / Moe / Chocolat",
       "boothUrl": "https://booth.pm/ja/items/8430656",
       "atlasSlot": 0,
-      "atlasIndex": 1
+      "atlasIndex": 1,
+      "frontImageSlot": 0,
+      "fullImageSlot": 1
     }
   ]
 }

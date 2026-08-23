@@ -1,0 +1,8 @@
+{
+  "items": [
+    { "name": "Atlas Item A", "atlasSlot": 0, "atlasIndex": 0 },
+    { "name": "Atlas Item B", "atlasSlot": 0, "atlasIndex": 1 },
+    { "name": "Atlas Item C", "atlasSlot": 0, "atlasIndex": 2 },
+    { "name": "Atlas Item D", "atlasSlot": 0, "atlasIndex": 3 }
+  ]
+}

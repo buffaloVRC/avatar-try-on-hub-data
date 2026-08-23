@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "shopName": "B＆C",
+      "name": "カプチーノ",
+      "category": "Outfit",
+      "avatar": "Chocolat",
+      "atlasSlot": 0,
+      "atlasIndex": 0
+    },
+    {
+      "shopName": "B＆C2",
+      "name": "カプコン",
+      "category": "Outfit",
+      "avatar": "Manuka / Kikyo / Moe / Chocolat",
+      "boothUrl": "https://booth.pm/ja/items/8430656",
+      "atlasSlot": 0,
+      "atlasIndex": 1
+    }
+  ]
+}

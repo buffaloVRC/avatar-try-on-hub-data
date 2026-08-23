@@ -1,0 +1,11 @@
+{
+  "items": [
+    {
+      "itemId": "test_dress_001",
+      "shopId": "test_shop",
+      "name": "Test Dress",
+      "avatar": "Chocolat",
+      "imageSlot": 0
+    }
+  ]
+}

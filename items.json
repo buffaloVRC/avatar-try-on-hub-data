@@ -7,6 +7,14 @@
       "avatar": "Chocolat",
       "category": "Outfit",
       "imageSlot": 0
+    },
+    {
+      "itemId": "test_dress_002",
+      "shopId": "test_shop",
+      "name": "Test Dress B",
+      "avatar": "Chocolat",
+      "category": "Outfit",
+      "imageSlot": 1
     }
   ]
 }

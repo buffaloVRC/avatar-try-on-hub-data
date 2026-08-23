@@ -3,9 +3,10 @@
     {
       "itemId": "test_dress_001",
       "shopId": "test_shop",
-      "name": "Test Dress",
+      "name": "Test Dress A",
       "avatar": "Chocolat",
-      "imageSlot": 1
+      "category": "Outfit",
+      "imageSlot": 0
     }
   ]
 }

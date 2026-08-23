@@ -15,6 +15,14 @@
       "avatar": "Chocolat",
       "category": "Outfit",
       "imageSlot": 1
+    },
+    {
+      "itemId": "test_external_003",
+      "shopId": "test_shop",
+      "name": "New External Item",
+      "avatar": "Chocolat",
+      "category": "Outfit",
+      "imageSlot": 2
     }
   ]
 }

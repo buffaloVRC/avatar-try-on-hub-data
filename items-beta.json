@@ -1,0 +1,16 @@
+{
+  "items": [
+    {
+      "itemId": "test_dress_001",
+      "shopName": "test_shop",
+      "name": "Test Dress",
+      "category": "Outfit",
+      "avatar": "Chocolat",
+      "boothUrl": "",
+      "boothSlot": -1,
+      "thumbnailIndex": 0,
+      "frontIndex": 0,
+      "fullIndex": 1
+    }
+  ]
+}

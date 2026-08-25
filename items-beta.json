@@ -11,6 +11,18 @@
       "thumbnailIndex": 0,
       "frontIndex": 0,
       "fullIndex": 1
+    },
+    {
+      "itemId": "test_dress_002",
+      "shopName": "test_shop_2",
+      "name": "Test Dress 2",
+      "category": "Outfit",
+      "avatar": "Manuka",
+      "boothUrl": "",
+      "boothSlot": -1,
+      "thumbnailIndex": 1,
+      "frontIndex": 0,
+      "fullIndex": 1
     }
   ]
 }
